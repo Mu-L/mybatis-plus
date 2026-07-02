@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
-import com.baomidou.mybatisplus.extension.plugins.inner.DynamicTableNameJsqlParserInnerInterceptor;
-import com.baomidou.mybatisplus.extension.toolkit.SqlParserUtils;
+import com.baomidou.mybatisplus.spring.plugins.inner.DynamicTableNameJsqlParserInnerInterceptor;
+import com.baomidou.mybatisplus.spring.toolkit.SqlParserUtils;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.kotlin
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper
-import com.baomidou.mybatisplus.extension.kotlin.KtQueryWrapper
+import com.baomidou.mybatisplus.spring.kotlin.KtQueryWrapper
 
 interface UserMapper : BaseMapper<User> {
 

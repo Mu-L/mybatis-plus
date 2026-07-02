@@ -1,8 +1,8 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
-import com.baomidou.mybatisplus.extension.plugins.handler.MultiDataPermissionHandler;
-import com.baomidou.mybatisplus.extension.plugins.inner.DataPermissionInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.handler.MultiDataPermissionHandler;
+import com.baomidou.mybatisplus.spring.plugins.inner.DataPermissionInterceptor;
 import com.google.common.collect.HashBasedTable;
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.expression.Expression;

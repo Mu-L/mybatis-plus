@@ -15,7 +15,7 @@
  */
 package com.baomidou.mybatisplus.autoconfigure;
 
-import com.baomidou.mybatisplus.extension.ddl.IDdl;
+import com.baomidou.mybatisplus.spring.ddl.IDdl;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

@@ -1,9 +1,9 @@
 package com.baomidou.mybatisplus.test.extension.plugins;
 
 import com.baomidou.mybatisplus.annotation.DbType;
-import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.inner.InnerInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.MybatisPlusInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.InnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.PaginationInnerInterceptor;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

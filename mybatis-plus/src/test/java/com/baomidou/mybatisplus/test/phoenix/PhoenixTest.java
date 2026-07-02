@@ -2,8 +2,8 @@ package com.baomidou.mybatisplus.test.phoenix;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.baomidou.mybatisplus.extension.toolkit.SqlHelper;
+import com.baomidou.mybatisplus.spring.plugins.pagination.Page;
+import com.baomidou.mybatisplus.spring.toolkit.SqlHelper;
 import com.baomidou.mybatisplus.test.phoenix.entity.PhoenixTestInfo;
 import com.baomidou.mybatisplus.test.phoenix.mapper.PhoenixTestInfoMapper;
 import org.apache.ibatis.session.SqlSession;

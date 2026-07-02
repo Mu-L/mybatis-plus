@@ -1,9 +1,9 @@
 package com.baomidou.mybatisplus.test.optimisticlocker;
 
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.inner.OptimisticLockerInnerInterceptor;
-import com.baomidou.mybatisplus.extension.toolkit.SqlHelper;
+import com.baomidou.mybatisplus.spring.plugins.MybatisPlusInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.OptimisticLockerInnerInterceptor;
+import com.baomidou.mybatisplus.spring.toolkit.SqlHelper;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 import org.apache.ibatis.plugin.Interceptor;
 import org.junit.jupiter.api.Assertions;

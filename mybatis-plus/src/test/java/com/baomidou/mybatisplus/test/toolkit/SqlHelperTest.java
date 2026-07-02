@@ -2,7 +2,7 @@ package com.baomidou.mybatisplus.test.toolkit;
 
 import com.baomidou.mybatisplus.core.toolkit.Assert;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.toolkit.SqlHelper;
+import com.baomidou.mybatisplus.spring.toolkit.SqlHelper;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 import com.baomidou.mybatisplus.test.rewrite.Entity;
 import com.baomidou.mybatisplus.test.rewrite.EntityMapper;

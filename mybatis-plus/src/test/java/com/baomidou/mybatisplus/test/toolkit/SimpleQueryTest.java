@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import com.baomidou.mybatisplus.core.toolkit.Assert;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.toolkit.SimpleQuery;
+import com.baomidou.mybatisplus.spring.toolkit.SimpleQuery;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 import com.baomidou.mybatisplus.test.rewrite.Entity;
 import com.baomidou.mybatisplus.test.rewrite.EntityMapper;

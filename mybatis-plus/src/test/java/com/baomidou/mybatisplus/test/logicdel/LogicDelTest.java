@@ -6,7 +6,7 @@ import com.baomidou.mybatisplus.core.injector.AbstractMethod;
 import com.baomidou.mybatisplus.core.injector.DefaultSqlInjector;
 import com.baomidou.mybatisplus.core.metadata.TableInfo;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.injector.methods.LogicDeleteBatchByIds;
+import com.baomidou.mybatisplus.spring.injector.methods.LogicDeleteBatchByIds;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 import org.apache.ibatis.reflection.MetaObject;
 import org.apache.ibatis.session.Configuration;

@@ -6,7 +6,7 @@ import java.util.List;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.baomidou.mybatisplus.extension.toolkit.ChainWrappers;
+import com.baomidou.mybatisplus.spring.toolkit.ChainWrappers;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 
 /**

@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
-import com.baomidou.mybatisplus.extension.plugins.handler.TenantLineHandler;
-import com.baomidou.mybatisplus.extension.plugins.inner.TenantLineInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.handler.TenantLineHandler;
+import com.baomidou.mybatisplus.spring.plugins.inner.TenantLineInnerInterceptor;
 import com.baomidou.mybatisplus.jsqlparser.enums.ExpressionAppendMode;
 import net.sf.jsqlparser.expression.Expression;
 import net.sf.jsqlparser.expression.LongValue;

@@ -2,7 +2,7 @@ package com.baomidou.mybatisplus.test.resultmap;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
-import com.baomidou.mybatisplus.extension.handlers.GsonTypeHandler;
+import com.baomidou.mybatisplus.spring.handlers.GsonTypeHandler;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

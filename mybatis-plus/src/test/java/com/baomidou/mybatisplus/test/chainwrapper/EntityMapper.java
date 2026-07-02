@@ -1,8 +1,8 @@
 package com.baomidou.mybatisplus.test.chainwrapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.baomidou.mybatisplus.extension.conditions.query.QueryChainWrapper;
-import com.baomidou.mybatisplus.extension.toolkit.ChainWrappers;
+import com.baomidou.mybatisplus.spring.conditions.query.QueryChainWrapper;
+import com.baomidou.mybatisplus.spring.toolkit.ChainWrappers;
 
 /**
  * @author miemie

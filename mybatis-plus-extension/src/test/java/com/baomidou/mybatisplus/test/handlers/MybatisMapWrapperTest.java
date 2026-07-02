@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.handlers;
 
-import com.baomidou.mybatisplus.extension.handlers.MybatisMapWrapper;
+import com.baomidou.mybatisplus.spring.handlers.MybatisMapWrapper;
 import org.junit.jupiter.api.Test;
 
 import java.util.Collections;

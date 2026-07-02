@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.toolkit;
 
 import com.baomidou.mybatisplus.annotation.DbType;
-import com.baomidou.mybatisplus.extension.toolkit.JdbcUtils;
+import com.baomidou.mybatisplus.spring.toolkit.JdbcUtils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.extension.parser;
 
-import com.baomidou.mybatisplus.extension.parser.cache.FstFactory;
+import com.baomidou.mybatisplus.spring.parser.cache.FstFactory;
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.parser.CCJSqlParserUtil;
 import net.sf.jsqlparser.statement.Statement;

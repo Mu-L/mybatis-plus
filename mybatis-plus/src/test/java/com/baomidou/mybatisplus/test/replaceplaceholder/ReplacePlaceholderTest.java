@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.replaceplaceholder;
 
-import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.inner.ReplacePlaceholderInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.MybatisPlusInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.ReplacePlaceholderInnerInterceptor;
 import com.baomidou.mybatisplus.test.BaseDbTest;
 import org.apache.ibatis.plugin.Interceptor;
 import org.junit.jupiter.api.Test;

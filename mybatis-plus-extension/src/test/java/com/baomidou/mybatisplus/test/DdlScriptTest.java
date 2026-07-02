@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test;
 
-import com.baomidou.mybatisplus.extension.ddl.DdlScript;
+import com.baomidou.mybatisplus.spring.ddl.DdlScript;
 import org.h2.Driver;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

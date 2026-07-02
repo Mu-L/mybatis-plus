@@ -2,10 +2,10 @@ package com.baomidou.mybatisplus.test.gaussdb;
 
 import com.baomidou.mybatisplus.core.MybatisConfiguration;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
-import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean;
+import com.baomidou.mybatisplus.spring.plugins.MybatisPlusInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.PaginationInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.pagination.Page;
+import com.baomidou.mybatisplus.spring.spring.MybatisSqlSessionFactoryBean;
 import com.huawei.gaussdb.jdbc.Driver;
 import lombok.AllArgsConstructor;
 import lombok.Data;

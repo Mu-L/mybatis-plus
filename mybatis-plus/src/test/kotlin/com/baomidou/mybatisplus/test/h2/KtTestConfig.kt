@@ -3,9 +3,9 @@ package com.baomidou.mybatisplus.test.h2
 import com.baomidou.mybatisplus.core.MybatisConfiguration
 import com.baomidou.mybatisplus.core.config.GlobalConfig
 import com.baomidou.mybatisplus.core.injector.DefaultSqlInjector
-import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor
-import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor
-import com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean
+import com.baomidou.mybatisplus.spring.plugins.MybatisPlusInterceptor
+import com.baomidou.mybatisplus.spring.plugins.inner.PaginationInnerInterceptor
+import com.baomidou.mybatisplus.spring.spring.MybatisSqlSessionFactoryBean
 import com.baomidou.mybatisplus.test.h2.config.DBConfig
 import org.apache.ibatis.session.ExecutorType
 import org.apache.ibatis.session.SqlSessionFactory

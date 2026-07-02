@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
-import com.baomidou.mybatisplus.extension.plugins.inner.DataPermissionInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.DataPermissionInterceptor;
 import lombok.extern.slf4j.Slf4j;
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.expression.Expression;

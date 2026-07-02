@@ -1,10 +1,10 @@
 package com.baomidou.mybatisplus.test.kotlin
 
 import com.baomidou.mybatisplus.core.metadata.IPage
-import com.baomidou.mybatisplus.extension.kotlin.KtQueryWrapper
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page
-import com.baomidou.mybatisplus.extension.toolkit.ChainWrappers
-import com.baomidou.mybatisplus.extension.toolkit.Db
+import com.baomidou.mybatisplus.spring.kotlin.KtQueryWrapper
+import com.baomidou.mybatisplus.spring.plugins.pagination.Page
+import com.baomidou.mybatisplus.spring.toolkit.ChainWrappers
+import com.baomidou.mybatisplus.spring.toolkit.Db
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 import java.util.*

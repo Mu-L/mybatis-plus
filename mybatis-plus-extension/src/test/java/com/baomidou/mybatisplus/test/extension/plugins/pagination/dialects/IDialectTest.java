@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.extension.plugins.pagination.dialects;
 
-import com.baomidou.mybatisplus.extension.plugins.pagination.DialectModel;
-import com.baomidou.mybatisplus.extension.plugins.pagination.dialects.IDialect;
+import com.baomidou.mybatisplus.spring.plugins.pagination.DialectModel;
+import com.baomidou.mybatisplus.spring.plugins.pagination.dialects.IDialect;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 import org.junit.platform.commons.util.ReflectionUtils;

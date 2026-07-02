@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test;
 
-import com.baomidou.mybatisplus.extension.toolkit.SqlParserUtils;
+import com.baomidou.mybatisplus.spring.toolkit.SqlParserUtils;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

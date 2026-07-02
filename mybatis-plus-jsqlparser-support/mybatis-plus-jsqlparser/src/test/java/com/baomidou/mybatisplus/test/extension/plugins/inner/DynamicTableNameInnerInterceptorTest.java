@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
-import com.baomidou.mybatisplus.extension.plugins.inner.DynamicTableNameInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.DynamicTableNameInnerInterceptor;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.kotlin
 
-import com.baomidou.mybatisplus.extension.kotlin.KtQueryWrapper
+import com.baomidou.mybatisplus.spring.kotlin.KtQueryWrapper
 import com.baomidou.mybatisplus.test.initTableInfo
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

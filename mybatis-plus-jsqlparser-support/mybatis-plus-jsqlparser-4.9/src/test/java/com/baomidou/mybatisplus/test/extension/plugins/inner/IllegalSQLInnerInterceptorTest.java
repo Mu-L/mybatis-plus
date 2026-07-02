@@ -1,7 +1,7 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
 import com.baomidou.mybatisplus.core.exceptions.MybatisPlusException;
-import com.baomidou.mybatisplus.extension.plugins.inner.IllegalSQLInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.IllegalSQLInnerInterceptor;
 import org.apache.ibatis.jdbc.SqlRunner;
 import org.h2.jdbcx.JdbcDataSource;
 import org.junit.jupiter.api.Assertions;

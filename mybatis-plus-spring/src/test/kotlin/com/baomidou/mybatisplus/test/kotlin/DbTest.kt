@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.kotlin
 
-import com.baomidou.mybatisplus.extension.toolkit.Db
+import com.baomidou.mybatisplus.spring.toolkit.Db
 import org.apache.ibatis.exceptions.PersistenceException
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Assertions.assertThrows

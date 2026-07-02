@@ -2,8 +2,8 @@ package com.baomidou.mybatisplus.test.kotlin
 
 import com.baomidou.mybatisplus.core.MybatisConfiguration
 import com.baomidou.mybatisplus.core.metadata.TableInfoHelper
-import com.baomidou.mybatisplus.extension.kotlin.KtQueryWrapper
-import com.baomidou.mybatisplus.extension.kotlin.KtUpdateWrapper
+import com.baomidou.mybatisplus.spring.kotlin.KtQueryWrapper
+import com.baomidou.mybatisplus.spring.kotlin.KtUpdateWrapper
 import org.apache.ibatis.builder.MapperBuilderAssistant
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test

@@ -13,7 +13,7 @@ import org.apache.ibatis.mapping.StatementType;
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Constants;
-import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.baomidou.mybatisplus.spring.plugins.pagination.Page;
 import com.baomidou.mybatisplus.test.h2.entity.H2Addr;
 import com.baomidou.mybatisplus.test.h2.entity.H2User;
 

@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.handlers;
 
-import com.baomidou.mybatisplus.extension.handlers.FastjsonTypeHandler;
+import com.baomidou.mybatisplus.spring.handlers.FastjsonTypeHandler;
 import com.baomidou.mybatisplus.test.model.UserBean;
 import org.apache.ibatis.type.JdbcType;
 import org.junit.jupiter.api.Assertions;

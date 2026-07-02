@@ -16,9 +16,9 @@
 package com.baomidou.mybatisplus.autoconfigure;
 
 import com.baomidou.mybatisplus.core.toolkit.CollectionUtils;
-import com.baomidou.mybatisplus.extension.ddl.DdlHelper;
-import com.baomidou.mybatisplus.extension.ddl.DdlScriptErrorHandler;
-import com.baomidou.mybatisplus.extension.ddl.IDdl;
+import com.baomidou.mybatisplus.spring.ddl.DdlHelper;
+import com.baomidou.mybatisplus.spring.ddl.DdlScriptErrorHandler;
+import com.baomidou.mybatisplus.spring.ddl.IDdl;
 import lombok.Setter;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.ibatis.jdbc.ScriptRunner;

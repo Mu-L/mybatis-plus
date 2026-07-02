@@ -17,9 +17,9 @@ package com.baomidou.mybatisplus.autoconfigure;
 
 import com.baomidou.mybatisplus.core.MybatisParameterHandler;
 import com.baomidou.mybatisplus.core.toolkit.Constants;
-import com.baomidou.mybatisplus.extension.scripting.MybatisFreeMarkerLanguageDriver;
-import com.baomidou.mybatisplus.extension.scripting.MybatisThymeleafLanguageDriver;
-import com.baomidou.mybatisplus.extension.scripting.MybatisVelocityLanguageDriver;
+import com.baomidou.mybatisplus.spring.scripting.MybatisFreeMarkerLanguageDriver;
+import com.baomidou.mybatisplus.spring.scripting.MybatisThymeleafLanguageDriver;
+import com.baomidou.mybatisplus.spring.scripting.MybatisVelocityLanguageDriver;
 import org.apache.ibatis.executor.parameter.ParameterHandler;
 import org.apache.ibatis.mapping.BoundSql;
 import org.apache.ibatis.mapping.MappedStatement;

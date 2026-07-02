@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.handlers;
 
-import com.baomidou.mybatisplus.extension.handlers.JacksonTypeHandler;
+import com.baomidou.mybatisplus.spring.handlers.JacksonTypeHandler;
 import com.baomidou.mybatisplus.test.model.UserBean;
 import org.apache.ibatis.type.JdbcType;
 import org.junit.jupiter.api.Assertions;

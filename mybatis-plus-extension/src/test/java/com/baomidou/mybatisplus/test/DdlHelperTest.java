@@ -1,12 +1,12 @@
 package com.baomidou.mybatisplus.test;
 
-import com.baomidou.mybatisplus.extension.ddl.DdlHelper;
-import com.baomidou.mybatisplus.extension.ddl.DdlScriptErrorHandler;
-import com.baomidou.mybatisplus.extension.ddl.history.IDdlGenerator;
-import com.baomidou.mybatisplus.extension.ddl.history.MysqlDdlGenerator;
-import com.baomidou.mybatisplus.extension.ddl.history.OracleDdlGenerator;
-import com.baomidou.mybatisplus.extension.ddl.history.PostgreDdlGenerator;
-import com.baomidou.mybatisplus.extension.ddl.history.SQLiteDdlGenerator;
+import com.baomidou.mybatisplus.spring.ddl.DdlHelper;
+import com.baomidou.mybatisplus.spring.ddl.DdlScriptErrorHandler;
+import com.baomidou.mybatisplus.spring.ddl.history.IDdlGenerator;
+import com.baomidou.mybatisplus.spring.ddl.history.MysqlDdlGenerator;
+import com.baomidou.mybatisplus.spring.ddl.history.OracleDdlGenerator;
+import com.baomidou.mybatisplus.spring.ddl.history.PostgreDdlGenerator;
+import com.baomidou.mybatisplus.spring.ddl.history.SQLiteDdlGenerator;
 import org.apache.ibatis.datasource.unpooled.UnpooledDataSource;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;

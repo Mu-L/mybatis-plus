@@ -1,6 +1,6 @@
 package com.baomidou.mybatisplus.test.extension.plugins.inner;
 
-import com.baomidou.mybatisplus.extension.plugins.inner.DataChangeRecorderInnerInterceptor;
+import com.baomidou.mybatisplus.spring.plugins.inner.DataChangeRecorderInnerInterceptor;
 import net.sf.jsqlparser.schema.Table;
 import net.sf.jsqlparser.statement.insert.Insert;
 import net.sf.jsqlparser.statement.update.Update;
